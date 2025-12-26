@@ -45,7 +45,7 @@ The app should consist of **two sections**:
 
 ## **Submission Details**
 
-* Complete the assignment and submit the GitHub repository link by **December 27th**.
+* Complete the assignment and submit the GitHub repository link by **December 31th**.
 * The assignment should be submitted as a fully working app that demonstrates the above features.
 * Ensure that the code is well-documented and structured for review.
 
